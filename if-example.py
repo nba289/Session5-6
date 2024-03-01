@@ -19,3 +19,5 @@ else:
     else:
         print("You are an adult. You can play the awesome drinking game.")
         print("Have some", random.choice(drinks), "and enjoy the game.")
+
+print("This is just extra stuff")
